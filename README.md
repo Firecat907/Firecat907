@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Firecat907
 - 👀 I’m interested in web and app development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning html, css and js. 
 - 💞️ I’m looking to collaborate on a Minecraft Bedrock legit client 
 - 😄 Pronouns: cat/he/him
 - ⚡ Fun fact: Meow
