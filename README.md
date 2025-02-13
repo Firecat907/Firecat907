@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Firecat907
 - 👀 I’m interested in web and app development
-- 🌱 I’m currently learning html, css and js. 
-- 💞️ I’m looking to collaborate on a Minecraft Bedrock client 
+- 🌱 I’m currently coding a website
+- 💞️ I’m looking to collaborate on a random minecraft bedrock related project 
 - 😄 Pronouns: cat/he/him
-- ⚡ Fun fact: Meow
+- ⚡ Fun fact: i like cats
 
 <!---
 Firecat907/Firecat907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
