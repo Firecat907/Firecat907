@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Firecat907
 - 👀 I’m interested in web and app development
-- 🌱 I’m currently coding a website
+- 🌱 I’m currently coding a website and a messaging platform
 - 💞️ I’m looking to collaborate on a random minecraft bedrock related project 
 - 😄 Pronouns: cat/he/him
 - ⚡ Fun fact: i like cats
