@@ -3,7 +3,8 @@
 - 🌱 I’m currently coding a website and a messaging platform
 - 💞️ I’m looking to collaborate on a random minecraft bedrock related project 
 - 😄 Pronouns: cat/he/him
-- ⚡ Fun fact: i like cats
+- ⚡ Fun Fact: i like cats
+- people who code c++ be thinkin how they compile some code after the terminal starts yappin
 
 <!---
 Firecat907/Firecat907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
